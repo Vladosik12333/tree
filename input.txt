@@ -1,0 +1,5 @@
+fizz = 3
+buzz.one = item1
+buzz.two.three = item2
+fizzbuzz.root.a.b.c = 13
+fizzbuzz.root.g = 13
